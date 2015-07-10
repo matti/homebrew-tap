@@ -1,4 +1,4 @@
-cask :v1 => 'virtualbox_and_extensiopack_4328100309' do
+cask :v1 => 'virtualbox_and_extensionpack_4328100309' do
   version '4.3.28-100309'
   sha256 '16ef55298abe5de8cd0e9ac88895d6404cde5a17d9aa126f8860c411c4eeeac2'
 
